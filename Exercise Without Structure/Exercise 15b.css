@@ -1,0 +1,14 @@
+body {
+  height: 3000px;
+}
+.a {
+  position: relative;
+}
+.x {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: gray;
+  height:180px;
+  width: 320px;
+}
