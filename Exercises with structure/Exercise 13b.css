@@ -1,0 +1,22 @@
+.div {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+.div1 {
+  background-color: lightpink;
+  width: 100px;
+}
+.div2 {
+  background-color: lightblue;
+  width: 200px;
+}
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  }
+.row2-item {
+  background-color: black;
+  color: white;
+}
