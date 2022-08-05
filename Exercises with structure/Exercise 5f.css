@@ -1,0 +1,35 @@
+.cost {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Arial;
+  margin-bottom: 5px;
+  margin-top: 0px,
+}
+.USD {
+  font-size: 14px;
+  font-family: Arial;
+  color: gray;
+  margin-bottom: 5px;
+  margin-top: 0px
+}
+.today {
+  font-size: 14px;
+  font-family: Arial;
+  color: green;
+  margin-bottom: 5px;
+  margin-top: 0px
+}
+.After {
+  font-size: 14px;
+  font-family: Arial;
+  color: gray;
+  margin-bottom: 50px;
+  margin-top: 0px
+}
+.red {
+  font-size: 14px;
+  font-family: Arial;
+  color: red;
+  margin-bottom: 50px;
+  margin-top: 0px
+}

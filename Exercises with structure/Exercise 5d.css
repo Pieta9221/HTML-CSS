@@ -1,0 +1,26 @@
+.Shopping {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Arial;
+  margin-bottom: 13px;
+  text-align: center;
+}
+.Apple {
+  font-size: 14px;
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 13px;
+  margin-top: 0px;
+  text-align: center;
+}
+.Learn {
+  color: rgb(51, 82, 223);
+  font-size: 14px;
+  font-family: Arial;
+  margin-bottom: 13px;
+  margin-top: 0px;
+  text-align: center;
+}
+.Learn:hover {
+  text-decoration: underline;
+}
