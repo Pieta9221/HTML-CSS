@@ -1,0 +1,20 @@
+.stretch {
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  font-family: Arial;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  margin-left: 4px;
+  transition: padding-left 0.15s, padding-right 0.15s;
+  border: none;
+  cursor: pointer;
+}
+.stretch:hover {
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
