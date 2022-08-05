@@ -1,0 +1,18 @@
+p{
+  font-family: Georgia;
+  text-align: center;
+  }
+.Model {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.Order {
+  font-size: 16px;
+  margin-top: 0px;
+}
+.Delivery {
+  font-size: 16px;
+  margin-top: 0px;
+  text-decoration: underline;
+}
